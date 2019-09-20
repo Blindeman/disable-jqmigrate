@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Prevent JQmigrate from loading
+ * Plugin Name: Disable JQmigrate
  * Plugin URI: https://en.guydumais.digital/disable-jquery-migrate-in-wordpress/
  * Github plugin URI: https://github.com/Blindeman/disable-jqmigrate
  * Description: Don't load JQmigrate if you don't need it
